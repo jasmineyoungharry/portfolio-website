@@ -36,3 +36,28 @@ P {
 ul {
     list-style: none;   
 }
+
+/* INTRO SECTION */
+#intro {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color:aqua
+}
+
+/* INTRO TEXT */
+#intro h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+#intro h2 {
+    font-size: 1.5rem;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+#intro p {
+    max-width: 600px;
+    font-size: 1.1rem;
+}
