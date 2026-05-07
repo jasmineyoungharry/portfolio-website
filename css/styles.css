@@ -9,7 +9,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #f8f9fa;
     color: #333
 }
 
@@ -37,27 +37,35 @@ ul {
     list-style: none;   
 }
 
-/* INTRO SECTION */
-#intro {
+/* HERO SECTION */
+#hero {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-color:aqua
+    background-color:#ffffff;
 }
 
-/* INTRO TEXT */
-#intro h1 {
+/* HERO CONTENT */
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* HERO TEXT */
+#hero h1 {
     font-size: 3rem;
     margin-bottom: 10px;
 }
 
-#intro h2 {
+#hero h2 {
     font-size: 1.5rem;
     color: #666;
     margin-bottom: 20px;
 }
 
-#intro p {
+#hero p {
     max-width: 600px;
     font-size: 1.1rem;
 }
