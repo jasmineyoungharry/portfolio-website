@@ -65,6 +65,21 @@ nav {
     margin: 0 auto;
 }
 
+/* SECTION STYLING */
+section {
+    padding: 80px 20px;
+}
+
+/* SECTION BACKGROUNG */
+#about,
+#projects {
+    background-color: #ffffff;
+}
+
+#skills,
+#contact {
+    background-color: #ffffff;
+}
 /* HEADINGS */
 h1,
 h2, 
@@ -73,7 +88,7 @@ h3 {
 }
 
 /* PARAGRAPHS */
-P {
+p {
     margin-bottom: 15px;
 }
 
@@ -145,7 +160,7 @@ ul {
     margin-bottom: 15px;
 }
 
-.projecr a {
+.project a {
     display: inline-block;
     margin-top: 10px;
     text-decoration: none;
