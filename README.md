@@ -42,6 +42,11 @@ A full-stack ASP.NET Core application that allows users to track expenses, categ
 
 A Python-based data analysis project that explores Canadian crime data using data processing and visualization techniques.
 
+### Movie Search App
+A responsive JavaScript application that lets users search for movies and view ratings, posters, and movie details using an external API.
+
+### Recipe Finder App
+A JavaScript application that allows users to search for recipes using a public API and view detailed meal information.
 ---
 
 ## What I Learned
