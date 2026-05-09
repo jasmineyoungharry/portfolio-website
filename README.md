@@ -62,6 +62,16 @@ While building this project, I improved my skills in:
 
 ---
 
+## Future Improvements
+
+- Add dark/light mode toggle
+- Improve animations and transitions
+- Add project filtering functionality
+- Integrate contact form backend
+- Continue improving accessibility
+
+---
+
 ## Contact
 
 Email: [jasmineyoungharry@gmail.com](mailto:jasmineyoungharry@gmail.com)
